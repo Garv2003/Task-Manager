@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
       <div>
-        <h1>Completed</h1>
+        <h1>InCompleted</h1>
       </div>
     </div>
   );
